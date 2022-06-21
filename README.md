@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=231BF7&background=FF000D00&multiline=true&lines=Hi+my+name+is+.%2F5%24)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&color=F71616&lines=Im+a+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&color=F71616&lines=Im+a+ethical+hacker)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2334F70B&size=25&lines=Languages+%3A)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70000&lines=HTML;CSS;BDscript;Lua)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237CF7AA&size=30&lines=.%2F5%24%230373)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237CF7AA&size=30&lines=.%2F5%24%230373+on+discord+!)](https://git.io/typing-svg)
